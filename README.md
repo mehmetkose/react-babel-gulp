@@ -3,8 +3,8 @@
 ## Installation
 
 ```
-$ git clone https://github.com/hkusu/react-babel-browserify-gulp-sample.git
-$ cd react-babel-browserify-gulp-sample
+$ git clone git@github.com:mehmetkose/react-babel-gulp.git
+$ cd react-babel-gulp
 $ npm install
 ```
 
